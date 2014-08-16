@@ -1,9 +1,0 @@
-If you work on terminal please enter string.(To quit enter -1)
-Inputs 
----------
-
-
-Outputs
---------
-3- specifies the actions to be performed by a computer mostly by writing source code. The source code is often transformed by a compiler
-
