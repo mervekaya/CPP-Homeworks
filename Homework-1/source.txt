@@ -1,0 +1,5 @@
+In computer science, source code is any collection of computer instructions (possibly with comments) written using some human-readable 
+ computer language, usually as text. The source code of a program is specially designed to facilitate the work of computer programmers, who
+ specifies the actions to be performed by a computer mostly by writing source code. The source code is often transformed by a compiler
+ program into low-level machine code understood by the computer. The machine code might then be stored for execution at a later time.
+ Alternatively, an interpreter can be used to analyze and perform the outcomes of the source code program directly on the fly.
