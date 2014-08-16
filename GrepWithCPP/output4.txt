@@ -1,0 +1,12 @@
+If you work on terminal please enter string.(To quit enter -1)
+Inputs 
+---------
+
+
+Outputs
+--------
+2- computer language, usually as text. The source code of a program is specially designed to facilitate the work of computer programmers, who
+3- specifies the actions to be performed by a computer mostly by writing source code. The source code is often transformed by a compiler
+4- program into low-level machine code understood by the computer. The machine code might then be stored for execution at a later time.
+5- Alternatively, an interpreter can be used to analyze and perform the outcomes of the source code program directly on the fly.
+
