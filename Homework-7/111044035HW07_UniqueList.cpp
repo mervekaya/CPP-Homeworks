@@ -133,8 +133,8 @@ namespace KayaList
            			 for(j = 0 ; j < otherList.numberOfElement() ; ++j)
                				 if(this->list[i] == otherList.at(j))
                				 {
-													if(intersection->searchElement(this->list[i]) < 0)
-						 									intersection->addElement(this->list[i]);
+						if(intersection->searchElement(this->list[i]) < 0)
+							intersection->addElement(this->list[i]);
 														
                				 }
                				 
